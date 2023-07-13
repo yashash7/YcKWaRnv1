@@ -1,0 +1,9 @@
+Summary (Groups - name, no'of people, total paid out)
+    - Spends Summary (Title - dateTime, amount, givenBy, *desc) [amount icon has no'of people involved]
+    - Spend Detail (Title, select dateTime default-current, amount, people multi-Select-Checkbox, paid-by, desc)
+
+People (name, current gon, got)
+
+----
+v1 - stick only to YcK Expenses
+----

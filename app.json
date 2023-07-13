@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "YcKWaRnv1",
+    "slug": "YcKWaRnv1",
+    "sdkVersion": "48.0.0"
+  },
+  "name": "yckwarnv1"
+}
